@@ -19,6 +19,9 @@ h1 {
    line-height: 36px;
 }
 
+p {
+   margin-top: 0px;
+}
 
 
 #header-link {
@@ -32,7 +35,7 @@ a {
   text-decoration-thickness: .5px;
   color: #19525F;
   text-underline-offset: 0.4rem;
-  padding-top: 20px;
+  padding-top: 10px;
    
 }
 
